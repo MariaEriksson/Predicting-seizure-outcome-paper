@@ -17,7 +17,7 @@ Epilepsia publication: https://onlinelibrary.wiley.com/doi/10.1111/epi.17637
 * 01-MLP-model.ipynb* - Jupyter notebook for the paper's multilayer perceptron model.
 * 02-XGBoost-own-model.ipynb* - Jupyter notebook for the paper's XGBoost model (that was trained on our data).
 * 03-Figure-2.R - R script used for producing Figure 2 in the paper.
-* 04-Figures-3A-3B-4A.ipynb - Jupyter notebook for producing Figure 3A, Figure 3B, and Figure 4A.
+* 04-Figures-3A-3B-4A.ipynb - Jupyter notebook for producing Figure 3A, Figure 3B, and Figure 4A in the paper.
 * 05-Figure-4B.R - R script used for producing Figure 4B in the paper.
 
 *Models require prior selection of predictor variables, one-hot encoding of categorical predictor variables, and handling of missing data.
