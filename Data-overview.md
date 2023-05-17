@@ -28,7 +28,7 @@ Patients were classified as either having or not having a family history of epil
  
 ## Pre-operative antiseizure medication 
  
-Patients’ antiseizure medication was characterised in terms of 
+Patients’ antiseizure medication was characterised in terms of:
 
 1. the number of antiseizure medications the patient was receiving at time of pre-surgical evaluation, and 
 2. the total number of different antiseizure medications the patient had trialled from epilepsy onset to pre-surgical evaluation. 
