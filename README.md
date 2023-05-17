@@ -7,7 +7,7 @@ Preprint: https://www.medrxiv.org/content/10.1101/2023.02.13.23285866v1
 Epilepsia publication: https://onlinelibrary.wiley.com/doi/10.1111/epi.17637 
  
 ## What does this repository contain? 
-1. Data dictionary, describing what data were included in the paper and how these data were categorised 
+1. Data overview, describing what data were included in the paper and how these data were categorised 
 2. Jupyter notebooks for running the paper's logistic regression, multilayer perceptron, and XGBoost models
 3. Jupyter notebooks and R scripts for creating the paper's figures
 
