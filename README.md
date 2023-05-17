@@ -15,7 +15,7 @@ Epilepsia publication: https://onlinelibrary.wiley.com/doi/10.1111/epi.17637
 
 * 00-LR-model.ipynb* - Jupyter notebook for the paper's logistic regression model.
 * 01-MLP-model.ipynb* - Jupyter notebook for the paper's multilayer perceptron model.
-* 02-XGBoost-own-model.ipynb* - Jupyter notebook for the paper's XGBoost model.
+* 02-XGBoost-own-model.ipynb* - Jupyter notebook for the paper's XGBoost model (that was trained on our data).
 * 03-Figure-2.R - R script used for producing Figure 2 in the paper.
 * 04-Figures-3A-3B-4A.ipynb - Jupyter notebook for producing Figure 3A, Figure 3B, and Figure 4A.
 * 05-Figure-4B.R - R script used for producing Figure 4B in the paper.
